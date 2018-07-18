@@ -1,0 +1,11 @@
+C:\Projects\AutoMapperOCP\AutoMapperOCP\bin\Debug\netcoreapp2.0\AutoMapperOCP.deps.json
+C:\Projects\AutoMapperOCP\AutoMapperOCP\bin\Debug\netcoreapp2.0\AutoMapperOCP.runtimeconfig.json
+C:\Projects\AutoMapperOCP\AutoMapperOCP\bin\Debug\netcoreapp2.0\AutoMapperOCP.runtimeconfig.dev.json
+C:\Projects\AutoMapperOCP\AutoMapperOCP\bin\Debug\netcoreapp2.0\AutoMapperOCP.dll
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.csprojAssemblyReference.cache
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.csproj.CoreCompileInputs.cache
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.AssemblyInfoInputs.cache
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.AssemblyInfo.cs
+C:\Projects\AutoMapperOCP\AutoMapperOCP\bin\Debug\netcoreapp2.0\AutoMapperOCP.pdb
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.dll
+C:\Projects\AutoMapperOCP\AutoMapperOCP\obj\Debug\netcoreapp2.0\AutoMapperOCP.pdb
